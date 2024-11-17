@@ -1,6 +1,3 @@
-Here’s a `README.md` file suitable for uploading this project to GitHub:
-
-
 # Automate YouTube Shorts Video Creation
 
 This project automates the creation of engaging YouTube Shorts-style videos by combining scripts, stock videos, audio, and subtitles. It uses APIs like AssemblyAI and Pexels along with libraries such as MoviePy to generate and compile video content seamlessly.
