@@ -30,7 +30,7 @@ def get_search_terms(video_subject,amount,script):
     """
     client = OpenAI(
         base_url="https://api.groq.com/openai/v1",
-        api_key="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"
+        api_key=""
     )
     response = client.chat.completions.create(
         model="llama-3.2-1b-preview",
